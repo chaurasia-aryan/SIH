@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Water Footprint Calculator</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Water Footprint Calculator</h1>
+    </header>
+    <main>
+        <section id="calculator">
+            <h2>Calculate Your Water Footprint</h2>
+            <form id="footprintForm">
+                <label for="crop">Select Crop:</label>
+                <select id="crop" name="crop">
+                    <option value="wheat">Wheat</option>
+                    <option value="rice">Rice</option>
+                    <option value="corn">Corn</option>
+                    <!-- Add more crops as needed -->
+                </select>
+                <label for="quantity">Quantity (kg):</label>
+                <input type="number" id="quantity" name="quantity" required>
+                <button type="button" onclick="calculateFootprint()">Calculate</button>
+            </form>
+            <div id="result"></div>
+        </section>
+    </main>
+    <footer>
+        <p>© 2024 Water Footprint Calculator</p>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>

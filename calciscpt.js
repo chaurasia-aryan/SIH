@@ -85,3 +85,18 @@ document.addEventListener("DOMContentLoaded", function () {
         categoryDropdown.classList.remove("visible");
     });
 });
+
+document.addEventListener("DOMContentLoaded", function () {
+    const cropSearch = document.getElementById("cropSearch");
+    const categoryDropdown = document.getElementById("categoryDropdown");
+
+    // Show dropdown on hover
+    cropSearch.addEventListener("mouseenter", function () {
+        categoryDropdown.classList.add("visible");
+    });
+
+    // Hide dropdown when not hovering over search input
+    cropSearch.addEventListener("mouseleave", function () {
+        categoryDropdown.classList.remove("visible");
+    });
+});

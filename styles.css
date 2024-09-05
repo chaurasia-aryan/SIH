@@ -1,111 +1,203 @@
-/* Global Styles */
+/* General Styles */
 body {
-    font-family: Arial, sans-serif;
     margin: 0;
-    padding: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "San Francisco", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    background: linear-gradient(to bottom, #ffffff, #f0f0f0);
+    color: #0b385f; /* Text color */
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+/* Toolbar Section */
+.toolbar {
+    display: flex;
+    align-items: center;
+    background: #e7f1fb; /* Background color */
+    padding: 10px 20px;
+    border-bottom: 2px solid #e0e0e0;
+}
+
+.toolbar-logo {
+    height: 50px;
+    margin-right: 20px;
+}
+
+.toolbar-text {
+    flex-grow: 1;
+    text-align: center;
+}
+
+.toolbar-text p {
+    margin: 0;
+    font-size: 1.2em;
+    color: #0b385f; /* Text color */
+}
+
+/* Main Content */
+.main-content {
+    padding: 20px;
 }
 
 /* Hero Section */
 .hero {
-    background: url('https://www.waterfootprint.org/wp-content/plugins/colibri-page-builder-pro//extend-builder/assets/images/beach-landscape-sea-water-nature-sand-1061655-pxhere.com.jpg');
-    color: white;
-    height: 50vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    position: relative;
+    background: url('https://i2.pickpik.com/photos/305/197/189/corn-field-cornfield-agriculture-preview.jpg') no-repeat center center;
+    background-size: cover;
+    color: #ffffff; /* Text color */
+    padding: 80px 20px;
     text-align: center;
 }
 
-.hero h1 {
-    font-size: 3em;
-    margin: 0;
+.hero-content h2 {
+    font-size: 2.5em;
+    margin: 0 0 20px;
+    font-weight: 600;
 }
 
-.hero h2 {
-    font-size: 2em;
-    margin: 10px 0 0 0;
+.hero-content p {
+    font-size: 1.2em;
+    margin: 0 0 30px;
+}
+
+.button {
+    background-color: transparent;
+    color: #0b385f; /* Border and text color */
+    padding: 12px 25px;
+    text-decoration: none;
+    border: 2px solid #0b385f; /* Border color */
+    border-radius: 50px; /* Oval shape */
+    transition: background-color 0.3s ease, color 0.3s ease;
+    display: inline-block;
+}
+
+.button:hover {
+    background-color: #0b385f;
+    color: #ffffff;
+}
+
+/* Water Animation */
+.water-animation {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100px;
+    background: url('path-to-your-water-texture.png') repeat-x;
+    animation: water-flow 4s linear infinite;
+    z-index: 1;
+}
+
+@keyframes water-flow {
+    0% {
+        background-position: 0 0;
+    }
+    100% {
+        background-position: 100% 0;
+    }
 }
 
 /* Conservation Section */
 .conservation {
-    background-color: #1a3d31;
-    color: white;
-    padding: 50px;
+    background: #e7f1fb; /* Background color */
+    color: #0b385f; /* Text color */
+    padding: 60px 20px;
     text-align: center;
+    position: relative;
+    overflow: hidden;
 }
 
 .conservation h3 {
-    font-size: 2.5em;
-    margin-bottom: 20px;
+    font-size: 2em;
+    margin: 0 0 20px;
+    font-weight: 600;
 }
 
 .conservation p {
-    font-size: 1.2em;
-    margin-bottom: 30px;
+    font-size: 1.1em;
+    margin: 0 0 30px;
 }
 
-.-button {
-    background-color: #556b2f;
-    color: white;
-    padding: 10px 20px;
-    border: none;
+.view-more-button {
+    background-color: transparent;
+    color: #0b385f; /* Border and text color */
+    padding: 12px 25px;
+    border: 2px solid #0b385f; /* Border color */
+    border-radius: 50px; /* Oval shape */
     cursor: pointer;
+    transition: background-color 0.3s ease, color 0.3s ease;
+    text-decoration: none;
 }
 
-.start-button:hover {
-    background-color: #6b8e23;
+.view-more-button:hover {
+    background-color: #0b385f;
+    color: #ffffff;
 }
 
 /* Info Section */
 .info {
-    background-color: #f4f4f4;
-    padding: 40px;
+    background: #e7f1fb; /* Background color */
+    color: #0b385f; /* Text color */
+    padding: 60px 20px;
     text-align: center;
+    position: relative;
+    overflow: hidden;
 }
 
-.info-content p {
-    font-size: 1.5em;
-    margin-bottom: 20px;
+.info p {
+    font-size: 1.1em;
+    margin: 0 0 30px;
 }
 
-.view-more-button {
-    background-color: #333;
-    color: white;
-    padding: 10px 20px;
-    border: none;
-    cursor: pointer;
+/* Curvy Background Image */
+.info::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: url('https://w0.peakpx.com/wallpaper/494/235/HD-wallpaper-blue-waves-waves-texture-blue-background-creative-abstract-waves-lines-waves-background-abstract-art.jpg') no-repeat center center;
+    background-size: cover;
+    border-radius: 50% 50% 0 0 / 10% 10% 0 0;
+    z-index: -1;
 }
 
-.view-more-button:hover {
-    background-color: #555;
-}
+/* Responsive Design */
+@media (max-width: 768px) {
+    .toolbar {
+        flex-direction: column;
+        text-align: center;
+    }
 
-/* Calculator Section */
-.calculator {
-    background-color: #8f9779;
-    padding: 50px;
-    text-align: center;
-}
+    .toolbar-logo {
+        margin-bottom: 10px;
+    }
 
-.calculator h3 {
-    font-size: 2em;
-    margin-bottom: 20px;
-}
+    .toolbar h1 {
+        font-size: 1.5em;
+    }
 
-.input-field {
-    padding: 10px;
-    width: 60%;
-    margin-bottom: 20px;
-}
+    .toolbar nav ul li a {
+        font-size: 1em;
+    }
 
-.back-button {
-    background-color: #333;
-    color: white;
-    padding: 10px 20px;
-    border: none;
-    cursor: pointer;
-}
+    .hero-content h2 {
+        font-size: 2em;
+    }
 
-.back-button:hover {
-    background-color: #555;
+    .hero-content p {
+        font-size: 1em;
+    }
+
+    .conservation h3 {
+        font-size: 1.5em;
+    }
+
+    .conservation p {
+        font-size: 1em;
+    }
 }

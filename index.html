@@ -3,20 +3,21 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Crop Water Footprint Calculator</title>
+    <title>Water Footprint Calculator</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <div class="container">
-        <h1>Crop Water Footprint Calculator</h1>
-        <input type="text" id="cropSearch" placeholder="Type crop name...">
+        <input type="text" id="cropSearch" placeholder="Search for a crop...">
+        <select id="categoryDropdown">
+            <option value="">Select a category</option>
+        </select>
         <ul id="cropList"></ul>
         <div id="quantityInput" style="display: none;">
-            <label for="quantity">Enter quantity (kg):</label>
-            <input type="number" id="quantity" min="1">
-            <button id="calculateButton">Calculate</button>
+            <input type="number" id="quantity" placeholder="Enter quantity in kg">
+            <button id="calculateButton">Calculate Water Footprint</button>
         </div>
-        <div id="result"></div>
+        <p id="result"></p>
     </div>
     <script src="script.js"></script>
 </body>

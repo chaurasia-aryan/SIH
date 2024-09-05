@@ -70,3 +70,18 @@ document.getElementById('calculateButton').addEventListener('click', () => {
         document.getElementById('result').textContent = 'Please select a crop and enter a valid quantity.';
     }
 });
+
+document.addEventListener("DOMContentLoaded", function () {
+    const cropSearch = document.getElementById("cropSearch");
+    const categoryDropdown = document.getElementById("categoryDropdown");
+
+    // Show dropdown on hover
+    cropSearch.addEventListener("mouseenter", function () {
+        categoryDropdown.classList.add("visible");
+    });
+
+    // Hide dropdown when not hovering over search input
+    cropSearch.addEventListener("mouseleave", function () {
+        categoryDropdown.classList.remove("visible");
+    });
+});

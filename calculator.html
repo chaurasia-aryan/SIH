@@ -3,15 +3,22 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Calculator</title>
-    <link rel="stylesheet" href="styles.css">
+    <title>Water Footprint Calculator</title>
+    <link rel="stylesheet" href="calcistyles.css">
 </head>
 <body>
-    <section class="calculator">
-        <h3>Water Footprint Calculator</h3>
-        <input type="text" placeholder="Enter Crop Name" class="input-field">
-        <button class="back-button">Back</button>
-    </section>
-    <script src="script.js"></script>
+    <div class="container">
+        <input type="text" id="cropSearch" placeholder="Search for a crop...">
+        <select id="categoryDropdown">
+            <option value="">Select a category</option>
+        </select>
+        <ul id="cropList"></ul>
+        <div id="quantityInput" style="display: none;">
+            <input type="number" id="quantity" placeholder="Enter quantity in kg">
+            <button id="calculateButton">Calculate Water Footprint</button>
+        </div>
+        <p id="result"></p>
+    </div>
+    <script src="calciscpt.js"></script>
 </body>
 </html>

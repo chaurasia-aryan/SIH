@@ -1,0 +1,1313 @@
+{
+    "watertofood_data_1725492421":[
+     {
+      "Item Name": "Wheat",
+      "Item Category": "Cereals",
+      "2016": 1859.9190398185485
+     },
+     {
+      "Item Name": "Flour of Wheat",
+      "Item Category": "Cereals",
+      "2016": 2021.207417149703
+     },
+     {
+      "Item Name": "Macaroni",
+      "Item Category": "Cereals",
+      "2016": 2021.207417149703
+     },
+     {
+      "Item Name": "Bread",
+      "Item Category": "Cereals",
+      "2016": 1757.5722735005131
+     },
+     {
+      "Item Name": "Bulgur",
+      "Item Category": "Cereals",
+      "2016": 2226.1457873929003
+     },
+     {
+      "Item Name": "Rice, paddy",
+      "Item Category": "Cereals",
+      "2016": 1837.7693658644223
+     },
+     {
+      "Item Name": "Beverages, fermented rice",
+      "Item Category": "Lux-foods",
+      "2016": 579.6250915527319
+     },
+     {
+      "Item Name": "Barley",
+      "Item Category": "Cereals",
+      "2016": 2093.0609760899647
+     },
+     {
+      "Item Name": "Barley Pearled",
+      "Item Category": "Cereals",
+      "2016": 3200.623842300909
+     },
+     {
+      "Item Name": "Malt",
+      "Item Category": "Cereals",
+      "2016": 3156.7809822328713
+     },
+     {
+      "Item Name": "Beer of Barley",
+      "Item Category": "Lux-foods",
+      "2016": 481.95138943579974
+     },
+     {
+      "Item Name": "Maize",
+      "Item Category": "Cereals",
+      "2016": 2370.905801096277
+     },
+     {
+      "Item Name": "Germ, maize",
+      "Item Category": "Cereals",
+      "2016": 1297.207171040199
+     },
+     {
+      "Item Name": "Flour of Maize",
+      "Item Category": "Cereals",
+      "2016": 2730.7890113092126
+     },
+     {
+      "Item Name": "Maize oil",
+      "Item Category": "Seeds & Oils",
+      "2016": 5498.690350932461
+     },
+     {
+      "Item Name": "Rye",
+      "Item Category": "Cereals",
+      "2016": 13.586129465410645
+     },
+     {
+      "Item Name": "Oats",
+      "Item Category": "Cereals",
+      "2016": 1682.4841544858857
+     },
+     {
+      "Item Name": "Oats Rolled",
+      "Item Category": "Cereals",
+      "2016": 2288.8528009230163
+     },
+     {
+      "Item Name": "Millet",
+      "Item Category": "Cereals",
+      "2016": 3822.784793976812
+     },
+     {
+      "Item Name": "Sorghum",
+      "Item Category": "Cereals",
+      "2016": 5293.8506646925425
+     },
+     {
+      "Item Name": "Buckwheat",
+      "Item Category": "Cereals",
+      "2016": 299.1225743447548
+     },
+     {
+      "Item Name": "Quinoa",
+      "Item Category": "Cereals",
+      "2016": 0
+     },
+     {
+      "Item Name": "Fonio",
+      "Item Category": "Cereals",
+      "2016": 0
+     },
+     {
+      "Item Name": "Triticale",
+      "Item Category": "Cereals",
+      "2016": 94.83742203250966
+     },
+     {
+      "Item Name": "Canary seed",
+      "Item Category": "Non edible",
+      "2016": 455.1177466607839
+     },
+     {
+      "Item Name": "Mixed grain",
+      "Item Category": "Cereals",
+      "2016": 97.88600207913196
+     },
+     {
+      "Item Name": "Flour, mixed grain",
+      "Item Category": "Cereals",
+      "2016": 1631.9112332251734
+     },
+     {
+      "Item Name": "Cereals, nes",
+      "Item Category": "Cereals",
+      "2016": 1765.5227798954115
+     },
+     {
+      "Item Name": "Flour, cereals",
+      "Item Category": "Cereals",
+      "2016": 1631.9112332251734
+     },
+     {
+      "Item Name": "Cereal preparations, nes",
+      "Item Category": "Cereals",
+      "2016": 1835.77181514617
+     },
+     {
+      "Item Name": "Potatoes",
+      "Item Category": "Vegetables",
+      "2016": 262.04774179766224
+     },
+     {
+      "Item Name": "Potatoes Flour",
+      "Item Category": "Vegetables",
+      "2016": 1405.998062626013
+     },
+     {
+      "Item Name": "Frozen Potatoes",
+      "Item Category": "Vegetables",
+      "2016": 562.3986767184351
+     },
+     {
+      "Item Name": "Sweet potatoes",
+      "Item Category": "Vegetables",
+      "2016": 411.6975186255674
+     },
+     {
+      "Item Name": "Cassava",
+      "Item Category": "Vegetables",
+      "2016": 211.3358380717619
+     },
+     {
+      "Item Name": "Cassava Dried",
+      "Item Category": "Vegetables",
+      "2016": 639.8936866021926
+     },
+     {
+      "Item Name": "Cassava Starch",
+      "Item Category": "Vegetables",
+      "2016": 895.8517081968332
+     },
+     {
+      "Item Name": "Yautia (cocoyam)",
+      "Item Category": "Vegetables",
+      "2016": 0
+     },
+     {
+      "Item Name": "Taro (cocoyam)",
+      "Item Category": "Vegetables",
+      "2016": 0
+     },
+     {
+      "Item Name": "Yams",
+      "Item Category": "Vegetables",
+      "2016": 0
+     },
+     {
+      "Item Name": "Roots and Tubers, nes",
+      "Item Category": "Vegetables",
+      "2016": 17.298902942288063
+     },
+     {
+      "Item Name": "Flour of Roots and Tubers",
+      "Item Category": "Vegetables",
+      "2016": 69.19548182333872
+     },
+     {
+      "Item Name": "Sugar cane",
+      "Item Category": "Vegetables",
+      "2016": 263.14832182853485
+     },
+     {
+      "Item Name": "Sugar beet",
+      "Item Category": "Vegetables",
+      "2016": 0
+     },
+     {
+      "Item Name": "Maple Sugar and Syrups",
+      "Item Category": "Lux-foods",
+      "2016": 2294.8967560798933
+     },
+     {
+      "Item Name": "Sugar crops, nes",
+      "Item Category": "Lux-foods",
+      "2016": 2270.159033990681
+     },
+     {
+      "Item Name": "Sugar Raw Centrifugal",
+      "Item Category": "Lux-foods",
+      "2016": 2145.7287164503605
+     },
+     {
+      "Item Name": "Sugar non-centrifugal",
+      "Item Category": "Lux-foods",
+      "2016": 2145.7287164503605
+     },
+     {
+      "Item Name": "Sugar Refined",
+      "Item Category": "Lux-foods",
+      "2016": 2294.8967560798933
+     },
+     {
+      "Item Name": "Molasses",
+      "Item Category": "Lux-foods",
+      "2016": 0
+     },
+     {
+      "Item Name": "Other Fructose and Syrup",
+      "Item Category": "Lux-foods",
+      "2016": 2294.8967560798933
+     },
+     {
+      "Item Name": "Sugar, nes",
+      "Item Category": "Lux-foods",
+      "2016": 22719.832377772193
+     },
+     {
+      "Item Name": "Sugar flavoured",
+      "Item Category": "Lux-foods",
+      "2016": 2294.8967560798933
+     },
+     {
+      "Item Name": "Glucose and Dextrose",
+      "Item Category": "Lux-foods",
+      "2016": 2294.8967560798933
+     },
+     {
+      "Item Name": "Beans, dry",
+      "Item Category": "Vegetables",
+      "2016": 8421.078377016107
+     },
+     {
+      "Item Name": "Broad beans, horse beans, dry",
+      "Item Category": "Vegetables",
+      "2016": 408.73116376323355
+     },
+     {
+      "Item Name": "Peas, dry",
+      "Item Category": "Vegetables",
+      "2016": 2654.2554852885546
+     },
+     {
+      "Item Name": "Chick peas",
+      "Item Category": "Vegetables",
+      "2016": 2051.1219364289323
+     },
+     {
+      "Item Name": "Cow peas, dry",
+      "Item Category": "Vegetables",
+      "2016": 0
+     },
+     {
+      "Item Name": "Pigeon peas",
+      "Item Category": "Vegetables",
+      "2016": 5233.949029737893
+     },
+     {
+      "Item Name": "Lentils",
+      "Item Category": "Vegetables",
+      "2016": 7382.971663936483
+     },
+     {
+      "Item Name": "Bambara beans",
+      "Item Category": "Vegetables",
+      "2016": 0
+     },
+     {
+      "Item Name": "Vetches",
+      "Item Category": "Vegetables",
+      "2016": 0
+     },
+     {
+      "Item Name": "Lupins",
+      "Item Category": "Vegetables",
+      "2016": 0
+     },
+     {
+      "Item Name": "Pulses, nes",
+      "Item Category": "Vegetables",
+      "2016": 3092.991293630297
+     },
+     {
+      "Item Name": "Flour of Pulses",
+      "Item Category": "Vegetables",
+      "2016": 12027.973632812418
+     },
+     {
+      "Item Name": "Brazil nuts, with shell",
+      "Item Category": "Fruits",
+      "2016": 0
+     },
+     {
+      "Item Name": "Cashew nuts, with shell",
+      "Item Category": "Fruits",
+      "2016": 5502.774193548387
+     },
+     {
+      "Item Name": "Chestnuts",
+      "Item Category": "Fruits",
+      "2016": 381.6396720640129
+     },
+     {
+      "Item Name": "Almonds, with shell",
+      "Item Category": "Fruits",
+      "2016": 3644.565784085174
+     },
+     {
+      "Item Name": "Walnuts, with shell",
+      "Item Category": "Fruits",
+      "2016": 6695.820296748994
+     },
+     {
+      "Item Name": "Pistachios",
+      "Item Category": "Fruits",
+      "2016": 10037.87285786295
+     },
+     {
+      "Item Name": "Kolanuts",
+      "Item Category": "Fruits",
+      "2016": 0
+     },
+     {
+      "Item Name": "Hazelnuts, with shell",
+      "Item Category": "Fruits",
+      "2016": 3552.6770807082003
+     },
+     {
+      "Item Name": "Arecanuts",
+      "Item Category": "Fruits",
+      "2016": 10733.86739226314
+     },
+     {
+      "Item Name": "Almonds Shelled",
+      "Item Category": "Fruits",
+      "2016": 7910.085764238923
+     },
+     {
+      "Item Name": "Walnuts Shelled",
+      "Item Category": "Fruits",
+      "2016": 14713.11611643145
+     },
+     {
+      "Item Name": "Hazelnuts Shelled",
+      "Item Category": "Fruits",
+      "2016": 6900.1051379788005
+     },
+     {
+      "Item Name": "Nuts, nes",
+      "Item Category": "Fruits",
+      "2016": 13619.819398941516
+     },
+     {
+      "Item Name": "Soybeans",
+      "Item Category": "Vegetables",
+      "2016": 3985.960661857368
+     },
+     {
+      "Item Name": "Soybean oil",
+      "Item Category": "Seeds & Oils",
+      "2016": 8172.337118825601
+     },
+     {
+      "Item Name": "Cake of Soybeans",
+      "Item Category": "Vegetables",
+      "2016": 3540.7644909274254
+     },
+     {
+      "Item Name": "Soya Sauce",
+      "Item Category": "Vegetables",
+      "2016": 1219.4919335150005
+     },
+     {
+      "Item Name": "Soya Paste",
+      "Item Category": "Vegetables",
+      "2016": 1138.1934519121776
+     },
+     {
+      "Item Name": "Groundnuts, with shell",
+      "Item Category": "Vegetables",
+      "2016": 2348.4032297442095
+     },
+     {
+      "Item Name": "Groundnuts Shelled",
+      "Item Category": "Vegetables",
+      "2016": 2650.1054845010162
+     },
+     {
+      "Item Name": "Groundnut oil",
+      "Item Category": "Seeds & Oils",
+      "2016": 4920.324218750013
+     },
+     {
+      "Item Name": "Cake, groundnuts",
+      "Item Category": "Vegetables",
+      "2016": 989.5654730027742
+     },
+     {
+      "Item Name": "Coconuts",
+      "Item Category": "Fruits",
+      "2016": 2353.8161266696
+     },
+     {
+      "Item Name": "Copra",
+      "Item Category": "Fruits",
+      "2016": 1888.4726050592287
+     },
+     {
+      "Item Name": "Coconut (copra) oil",
+      "Item Category": "Seeds & Oils",
+      "2016": 3970.5690130418197
+     },
+     {
+      "Item Name": "Cake, copra",
+      "Item Category": "Fruits",
+      "2016": 752.5697749968488
+     },
+     {
+      "Item Name": "Oil, palm fruit",
+      "Item Category": "Fruits",
+      "2016": 843.064482658141
+     },
+     {
+      "Item Name": "Palm kernels",
+      "Item Category": "Fruits",
+      "2016": 1642.5183971774197
+     },
+     {
+      "Item Name": "Palm oil",
+      "Item Category": "Seeds & Oils",
+      "2016": 3236.580975932455
+     },
+     {
+      "Item Name": "Palm kernel oil",
+      "Item Category": "Seeds & Oils",
+      "2016": 3260.2106461063513
+     },
+     {
+      "Item Name": "Cake of Palm Kernel",
+      "Item Category": "Fruits",
+      "2016": 512.8556183845774
+     },
+     {
+      "Item Name": "Olives",
+      "Item Category": "Fruits",
+      "2016": 3361.467395413316
+     },
+     {
+      "Item Name": "Olive oil, virgin",
+      "Item Category": "Seeds & Oils",
+      "2016": 16665.17748235887
+     },
+     {
+      "Item Name": "Olives Preserved",
+      "Item Category": "Fruits",
+      "2016": 3481.2864084551516
+     },
+     {
+      "Item Name": "Karite Nuts (Sheanuts)",
+      "Item Category": "Fruits",
+      "2016": 0
+     },
+     {
+      "Item Name": "Castor oil seed",
+      "Item Category": "Seeds & Oils",
+      "2016": 5987.526067918364
+     },
+     {
+      "Item Name": "Oil of Castor Beans",
+      "Item Category": "Seeds & Oils",
+      "2016": 12630.413054435483
+     },
+     {
+      "Item Name": "Sunflower seed",
+      "Item Category": "Seeds & Oils",
+      "2016": 7008.921008694557
+     },
+     {
+      "Item Name": "Sunflower oil",
+      "Item Category": "Seeds & Oils",
+      "2016": 17008.43425529227
+     },
+     {
+      "Item Name": "Sunflower Cake",
+      "Item Category": "Seeds & Oils",
+      "2016": 3463.929703251012
+     },
+     {
+      "Item Name": "Rapeseed",
+      "Item Category": "Seeds & Oils",
+      "2016": 2966.658707157255
+     },
+     {
+      "Item Name": "Rapeseed oil",
+      "Item Category": "Seeds & Oils",
+      "2016": 5698.87093623992
+     },
+     {
+      "Item Name": "Cake of Rapeseed",
+      "Item Category": "Seeds & Oils",
+      "2016": 1508.0870991368486
+     },
+     {
+      "Item Name": "Oil, olive residues",
+      "Item Category": "Seeds & Oils",
+      "2016": 7412.537392893164
+     },
+     {
+      "Item Name": "Tung nuts",
+      "Item Category": "Seeds & Oils",
+      "2016": 0
+     },
+     {
+      "Item Name": "Jojoba seed",
+      "Item Category": "Seeds & Oils",
+      "2016": 0
+     },
+     {
+      "Item Name": "Safflower seed",
+      "Item Category": "Seeds & Oils",
+      "2016": 12086.65193422371
+     },
+     {
+      "Item Name": "Oil, safflower",
+      "Item Category": "Seeds & Oils",
+      "2016": 17008.43425529227
+     },
+     {
+      "Item Name": "Cake, safflower",
+      "Item Category": "Seeds & Oils",
+      "2016": 3463.929703251012
+     },
+     {
+      "Item Name": "Sesame seed",
+      "Item Category": "Seeds & Oils",
+      "2016": 14324.596711189417
+     },
+     {
+      "Item Name": "Sesame oil",
+      "Item Category": "Seeds & Oils",
+      "2016": 35018.29681199597
+     },
+     {
+      "Item Name": "Mustard seed",
+      "Item Category": "Seeds & Oils",
+      "2016": 1442.9212882749455
+     },
+     {
+      "Item Name": "Poppy seed",
+      "Item Category": "Seeds & Oils",
+      "2016": 225.11871141003223
+     },
+     {
+      "Item Name": "Melonseed",
+      "Item Category": "Seeds & Oils",
+      "2016": 0
+     },
+     {
+      "Item Name": "Tallowtree seed",
+      "Item Category": "Seeds & Oils",
+      "2016": 0
+     },
+     {
+      "Item Name": "Kapok fruit",
+      "Item Category": "Seeds & Oils",
+      "2016": 0
+     },
+     {
+      "Item Name": "Kapokseed in shell",
+      "Item Category": "Seeds & Oils",
+      "2016": 0
+     },
+     {
+      "Item Name": "Seed cotton",
+      "Item Category": "Seeds & Oils",
+      "2016": 7345.313893964196
+     },
+     {
+      "Item Name": "Cottonseed",
+      "Item Category": "Seeds & Oils",
+      "2016": 2060.2438610446093
+     },
+     {
+      "Item Name": "Cottonseed oil",
+      "Item Category": "Seeds & Oils",
+      "2016": 7216.644231980819
+     },
+     {
+      "Item Name": "Cake of Cottonseed",
+      "Item Category": "Seeds & Oils",
+      "2016": 1568.9558066091263
+     },
+     {
+      "Item Name": "Linseed",
+      "Item Category": "Seeds & Oils",
+      "2016": 12665.343907510098
+     },
+     {
+      "Item Name": "Linseed oil",
+      "Item Category": "Seeds & Oils",
+      "2016": 24797.800151209678
+     },
+     {
+      "Item Name": "Cake of Linseed",
+      "Item Category": "Seeds & Oils",
+      "2016": 8268.474325856829
+     },
+     {
+      "Item Name": "Hempseed",
+      "Item Category": "Seeds & Oils",
+      "2016": 0
+     },
+     {
+      "Item Name": "Oilseeds, Nes",
+      "Item Category": "Seeds & Oils",
+      "2016": 8844.703188004
+     },
+     {
+      "Item Name": "Oil of vegetable origin, nes",
+      "Item Category": "Seeds & Oils",
+      "2016": 17005.274193548386
+     },
+     {
+      "Item Name": "Cabbages and other brassicas",
+      "Item Category": "Vegetables",
+      "2016": 97.90316157187159
+     },
+     {
+      "Item Name": "Artichokes",
+      "Item Category": "Vegetables",
+      "2016": 0
+     },
+     {
+      "Item Name": "Asparagus",
+      "Item Category": "Vegetables",
+      "2016": 764.9004516601642
+     },
+     {
+      "Item Name": "Lettuce and chicory",
+      "Item Category": "Vegetables",
+      "2016": 297.12825652091743
+     },
+     {
+      "Item Name": "Spinach",
+      "Item Category": "Vegetables",
+      "2016": 2.999903278966097
+     },
+     {
+      "Item Name": "Cassava leaves",
+      "Item Category": "Vegetables",
+      "2016": 0
+     },
+     {
+      "Item Name": "Tomatoes",
+      "Item Category": "Vegetables",
+      "2016": 188.81193542480452
+     },
+     {
+      "Item Name": "Juice of Tomatoes",
+      "Item Category": "Vegetables",
+      "2016": 263.93012852822613
+     },
+     {
+      "Item Name": "Paste of Tomatoes",
+      "Item Category": "Vegetables",
+      "2016": 844.5759651430208
+     },
+     {
+      "Item Name": "Tomato Peeled",
+      "Item Category": "Vegetables",
+      "2016": 263.93012852822613
+     },
+     {
+      "Item Name": "Cauliflowers and broccoli",
+      "Item Category": "Vegetables",
+      "2016": 108.2220641105413
+     },
+     {
+      "Item Name": "Pumpkins, squash and gourds",
+      "Item Category": "Vegetables",
+      "2016": 265.72731953282573
+     },
+     {
+      "Item Name": "Cucumbers and gherkins",
+      "Item Category": "Vegetables",
+      "2016": 182.27806435861933
+     },
+     {
+      "Item Name": "Eggplant-baseds (aubergines)",
+      "Item Category": "Vegetables",
+      "2016": 16.826742849042258
+     },
+     {
+      "Item Name": "Chillies and peppers, green",
+      "Item Category": "Vegetables",
+      "2016": 246.35551551080485
+     },
+     {
+      "Item Name": "Onions (inc. shallots), green",
+      "Item Category": "Vegetables",
+      "2016": 22.40075806648497
+     },
+     {
+      "Item Name": "Onions, dry",
+      "Item Category": "Vegetables",
+      "2016": 272.8573854507942
+     },
+     {
+      "Item Name": "Garlic",
+      "Item Category": "Vegetables",
+      "2016": 634.6172229397685
+     },
+     {
+      "Item Name": "Leeks, other alliaceous vegetables",
+      "Item Category": "Vegetables",
+      "2016": 4.492161412392903
+     },
+     {
+      "Item Name": "Beans, green",
+      "Item Category": "Vegetables",
+      "2016": 659.8116140057958
+     },
+     {
+      "Item Name": "Peas, green",
+      "Item Category": "Vegetables",
+      "2016": 285.1065791960687
+     },
+     {
+      "Item Name": "Vegetables, leguminous nes",
+      "Item Category": "Vegetables",
+      "2016": 0
+     },
+     {
+      "Item Name": "String beans",
+      "Item Category": "Vegetables",
+      "2016": 0
+     },
+     {
+      "Item Name": "Carrots and turnips",
+      "Item Category": "Vegetables",
+      "2016": 130.35928984611195
+     },
+     {
+      "Item Name": "Okra",
+      "Item Category": "Vegetables",
+      "2016": 399.54051454605576
+     },
+     {
+      "Item Name": "Maize, green",
+      "Item Category": "Vegetables",
+      "2016": 250.72412700037808
+     },
+     {
+      "Item Name": "Sweet Corn Frozen",
+      "Item Category": "Vegetables",
+      "2016": 149.22016069966
+     },
+     {
+      "Item Name": "Mushrooms and truffles",
+      "Item Category": "Vegetables",
+      "2016": 42.93619266633032
+     },
+     {
+      "Item Name": "Chicory roots",
+      "Item Category": "Vegetables",
+      "2016": 0
+     },
+     {
+      "Item Name": "Veg.Prod.Fresh Or Dried",
+      "Item Category": "Vegetables",
+      "2016": 189.01825689500512
+     },
+     {
+      "Item Name": "Carobs",
+      "Item Category": "Vegetables",
+      "2016": 0
+     },
+     {
+      "Item Name": "Vegetables fresh nes",
+      "Item Category": "Vegetables",
+      "2016": 177.48709549442486
+     },
+     {
+      "Item Name": "Vegetables, dried nes",
+      "Item Category": "Vegetables",
+      "2016": 540.0521909652219
+     },
+     {
+      "Item Name": "Vegetables Dehydrated",
+      "Item Category": "Vegetables",
+      "2016": 540.0521909652219
+     },
+     {
+      "Item Name": "Vegetables Preserved Nes",
+      "Item Category": "Vegetables",
+      "2016": 189.01825689500512
+     },
+     {
+      "Item Name": "Vegetable Frozen",
+      "Item Category": "Vegetables",
+      "2016": 270.02622542842704
+     },
+     {
+      "Item Name": "Bananas",
+      "Item Category": "Fruits",
+      "2016": 534.6310021185103
+     },
+     {
+      "Item Name": "Plantains",
+      "Item Category": "Fruits",
+      "2016": 0
+     },
+     {
+      "Item Name": "Oranges",
+      "Item Category": "Fruits",
+      "2016": 729.5110975696173
+     },
+     {
+      "Item Name": "Orange juice, single strength",
+      "Item Category": "Fruits",
+      "2016": 1276.5064480689275
+     },
+     {
+      "Item Name": "Tangerines, mandarins, clem.",
+      "Item Category": "Fruits",
+      "2016": 213.34426092332384
+     },
+     {
+      "Item Name": "Lemons and limes",
+      "Item Category": "Fruits",
+      "2016": 692.6330940492693
+     },
+     {
+      "Item Name": "Grapefruit (inc. pomelos)",
+      "Item Category": "Fruits",
+      "2016": 379.74309613627844
+     },
+     {
+      "Item Name": "Juice of Grapefruit",
+      "Item Category": "Fruits",
+      "2016": 554.663511214718
+     },
+     {
+      "Item Name": "Citrus fruit, nes",
+      "Item Category": "Fruits",
+      "2016": 591.1096398138232
+     },
+     {
+      "Item Name": "Citrus juice, single strength",
+      "Item Category": "Fruits",
+      "2016": 759.2036191878789
+     },
+     {
+      "Item Name": "Apples",
+      "Item Category": "Fruits",
+      "2016": 1650.0196730090772
+     },
+     {
+      "Item Name": "Cider Etc",
+      "Item Category": "Lux-foods",
+      "2016": 579.6250915527319
+     },
+     {
+      "Item Name": "Pears",
+      "Item Category": "Fruits",
+      "2016": 1564.343230216726
+     },
+     {
+      "Item Name": "Quinces",
+      "Item Category": "Fruits",
+      "2016": 0
+     },
+     {
+      "Item Name": "Apricots",
+      "Item Category": "Fruits",
+      "2016": 1792.6341946509515
+     },
+     {
+      "Item Name": "Dry Apricots",
+      "Item Category": "Fruits",
+      "2016": 6226.118951612906
+     },
+     {
+      "Item Name": "Sour cherries",
+      "Item Category": "Fruits",
+      "2016": 162.8990655714471
+     },
+     {
+      "Item Name": "Cherries",
+      "Item Category": "Fruits",
+      "2016": 2971.352231917842
+     },
+     {
+      "Item Name": "Peaches and nectarines",
+      "Item Category": "Fruits",
+      "2016": 1505.038373393387
+     },
+     {
+      "Item Name": "Plums and sloes",
+      "Item Category": "Fruits",
+      "2016": 2188.574514081413
+     },
+     {
+      "Item Name": "Plums Dried (Prunes)",
+      "Item Category": "Fruits",
+      "2016": 7526.100688319017
+     },
+     {
+      "Item Name": "Stone fruit, nes",
+      "Item Category": "Fruits",
+      "2016": 1460.3551320722063
+     },
+     {
+      "Item Name": "Fruit, pome nes",
+      "Item Category": "Fruits",
+      "2016": 0
+     },
+     {
+      "Item Name": "Strawberries",
+      "Item Category": "Fruits",
+      "2016": 78.82096739738208
+     },
+     {
+      "Item Name": "Raspberries",
+      "Item Category": "Fruits",
+      "2016": 0
+     },
+     {
+      "Item Name": "Gooseberries",
+      "Item Category": "Fruits",
+      "2016": 0
+     },
+     {
+      "Item Name": "Currants",
+      "Item Category": "Fruits",
+      "2016": 0
+     },
+     {
+      "Item Name": "Blueberries",
+      "Item Category": "Fruits",
+      "2016": 55.24699943296355
+     },
+     {
+      "Item Name": "Cranberries",
+      "Item Category": "Fruits",
+      "2016": 33.57522583007839
+     },
+     {
+      "Item Name": "Berries Nes",
+      "Item Category": "Fruits",
+      "2016": 687.8603515625008
+     },
+     {
+      "Item Name": "Grapes",
+      "Item Category": "Fruits",
+      "2016": 393.34845167590674
+     },
+     {
+      "Item Name": "Raisins",
+      "Item Category": "Fruits",
+      "2016": 1622.9499944871354
+     },
+     {
+      "Item Name": "Grape Juice",
+      "Item Category": "Fruits",
+      "2016": 540.9829662692184
+     },
+     {
+      "Item Name": "Wine",
+      "Item Category": "Lux-foods",
+      "2016": 579.6250915527319
+     },
+     {
+      "Item Name": "Vermouths and Similar",
+      "Item Category": "Lux-foods",
+      "2016": 579.6250915527319
+     },
+     {
+      "Item Name": "Watermelons",
+      "Item Category": "Fruits",
+      "2016": 325.86354901713673
+     },
+     {
+      "Item Name": "Other melons (inc.cantaloupes)",
+      "Item Category": "Fruits",
+      "2016": 97.20483890656452
+     },
+     {
+      "Item Name": "Figs",
+      "Item Category": "Fruits",
+      "2016": 301.23161463583875
+     },
+     {
+      "Item Name": "Figs dried",
+      "Item Category": "Fruits",
+      "2016": 361.90032368321937
+     },
+     {
+      "Item Name": "Mangoes, mangosteens, guavas",
+      "Item Category": "Fruits",
+      "2016": 1690.9312862273193
+     },
+     {
+      "Item Name": "Avocados",
+      "Item Category": "Fruits",
+      "2016": 195.89471041771745
+     },
+     {
+      "Item Name": "Pineapples",
+      "Item Category": "Fruits",
+      "2016": 314.86564488564744
+     },
+     {
+      "Item Name": "Juice of Pineapples",
+      "Item Category": "Fruits",
+      "2016": 1617.3132245463516
+     },
+     {
+      "Item Name": "Dates",
+      "Item Category": "Fruits",
+      "2016": 1671.1874566847366
+     },
+     {
+      "Item Name": "Persimmons",
+      "Item Category": "Fruits",
+      "2016": 19.729807207661292
+     },
+     {
+      "Item Name": "Cashew apple",
+      "Item Category": "Fruits",
+      "2016": 0
+     },
+     {
+      "Item Name": "Kiwi fruit",
+      "Item Category": "Fruits",
+      "2016": 278.2003862934729
+     },
+     {
+      "Item Name": "Papayas",
+      "Item Category": "Fruits",
+      "2016": 265.15412853610104
+     },
+     {
+      "Item Name": "Fruit, tropical fresh nes",
+      "Item Category": "Fruits",
+      "2016": 1059.6246219758143
+     },
+     {
+      "Item Name": "Fruit Fresh Nes",
+      "Item Category": "Fruits",
+      "2016": 1472.5621318201747
+     },
+     {
+      "Item Name": "Fruit, dried nes",
+      "Item Category": "Fruits",
+      "2016": 5643.985154674892
+     },
+     {
+      "Item Name": "Fruit Juice Nes",
+      "Item Category": "Fruits",
+      "2016": 759.2036191878789
+     },
+     {
+      "Item Name": "Beverages, distilled alcoholic",
+      "Item Category": "Lux-foods",
+      "2016": 579.6250915527319
+     },
+     {
+      "Item Name": "Coffee, green",
+      "Item Category": "Lux-foods",
+      "2016": 13926.145287298257
+     },
+     {
+      "Item Name": "Coffee Roasted",
+      "Item Category": "Lux-foods",
+      "2016": 17351.37427545358
+     },
+     {
+      "Item Name": "Cocoa beans",
+      "Item Category": "Lux-foods",
+      "2016": 25871.55493951613
+     },
+     {
+      "Item Name": "Cocoa Paste",
+      "Item Category": "Lux-foods",
+      "2016": 32048.161353326614
+     },
+     {
+      "Item Name": "Cocoa Butter",
+      "Item Category": "Lux-foods",
+      "2016": 44873.87084173387
+     },
+     {
+      "Item Name": "Cocoapowder and Cake",
+      "Item Category": "Lux-foods",
+      "2016": 20674.422631048386
+     },
+     {
+      "Item Name": "Chocolate Prsnes",
+      "Item Category": "Lux-foods",
+      "2016": 20674.422631048386
+     },
+     {
+      "Item Name": "Tea",
+      "Item Category": "Lux-foods",
+      "2016": 6116.388719128032
+     },
+     {
+      "Item Name": "MatÃ©",
+      "Item Category": "Lux-foods",
+      "2016": 963.1106350806451
+     },
+     {
+      "Item Name": "Hops",
+      "Item Category": "Lux-foods",
+      "2016": 1379.6748480027677
+     },
+     {
+      "Item Name": "Pepper (Piper spp.)",
+      "Item Category": "Lux-foods",
+      "2016": 17147.787014868936
+     },
+     {
+      "Item Name": "Chillies and peppers, dry",
+      "Item Category": "Lux-foods",
+      "2016": 7820.316752772209
+     },
+     {
+      "Item Name": "Vanilla",
+      "Item Category": "Lux-foods",
+      "2016": 44914.12575604839
+     },
+     {
+      "Item Name": "Cinnamon (canella)",
+      "Item Category": "Lux-foods",
+      "2016": 10150.80742817542
+     },
+     {
+      "Item Name": "Cloves",
+      "Item Category": "Lux-foods",
+      "2016": 30526.116179435485
+     },
+     {
+      "Item Name": "Nutmeg, mace and cardamoms",
+      "Item Category": "Lux-foods",
+      "2016": 58889.793850806454
+     },
+     {
+      "Item Name": "Anise, badian, fennel, corian.",
+      "Item Category": "Lux-foods",
+      "2016": 10206.19802167334
+     },
+     {
+      "Item Name": "Ginger",
+      "Item Category": "Lux-foods",
+      "2016": 865.3186803017937
+     },
+     {
+      "Item Name": "Spices, nes",
+      "Item Category": "Lux-foods",
+      "2016": 3412.8945154989897
+     },
+     {
+      "Item Name": "Peppermint",
+      "Item Category": "Lux-foods",
+      "2016": 0
+     },
+     {
+      "Item Name": "Cotton lint",
+      "Item Category": "Non edible",
+      "2016": 15837.923324092691
+     },
+     {
+      "Item Name": "Cotton Carded,Combed",
+      "Item Category": "Non edible",
+      "2016": 19821.26017515121
+     },
+     {
+      "Item Name": "Cotton Waste",
+      "Item Category": "Non edible",
+      "2016": 3514.2425852129486
+     },
+     {
+      "Item Name": "Cotton Linter",
+      "Item Category": "Non edible",
+      "2016": 4745.162282636091
+     },
+     {
+      "Item Name": "Flax fibre raw",
+      "Item Category": "Non edible",
+      "2016": 3864.6912881174057
+     },
+     {
+      "Item Name": "Flax fibre and tow",
+      "Item Category": "Non edible",
+      "2016": 2892.5935452368826
+     },
+     {
+      "Item Name": "Flax Tow Waste",
+      "Item Category": "Non edible",
+      "2016": 851.9073584771907
+     },
+     {
+      "Item Name": "Hemp Tow Waste",
+      "Item Category": "Non edible",
+      "2016": 0
+     },
+     {
+      "Item Name": "Kapok fibre",
+      "Item Category": "Non edible",
+      "2016": 0
+     },
+     {
+      "Item Name": "Jute",
+      "Item Category": "Non edible",
+      "2016": 1567.3755000945034
+     },
+     {
+      "Item Name": "Other Bastfibres",
+      "Item Category": "Non edible",
+      "2016": 5166.003866872485
+     },
+     {
+      "Item Name": "Ramie",
+      "Item Category": "Non edible",
+      "2016": 0
+     },
+     {
+      "Item Name": "Sisal",
+      "Item Category": "Non edible",
+      "2016": 0
+     },
+     {
+      "Item Name": "Agave Fibres Nes",
+      "Item Category": "Non edible",
+      "2016": 0
+     },
+     {
+      "Item Name": "Manila Fibre (Abaca)",
+      "Item Category": "Non edible",
+      "2016": 8392.241935483871
+     },
+     {
+      "Item Name": "Coir",
+      "Item Category": "Non edible",
+      "2016": 6153.92579700101
+     },
+     {
+      "Item Name": "Fibre Crops Nes",
+      "Item Category": "Non edible",
+      "2016": 0
+     },
+     {
+      "Item Name": "Tobacco, unmanufactured",
+      "Item Category": "Non edible",
+      "2016": 3392.3193438129915
+     },
+     {
+      "Item Name": "Natural rubber",
+      "Item Category": "Non edible",
+      "2016": 8741.424552671382
+     },
+     {
+      "Item Name": "Gums, natural",
+      "Item Category": "Non edible"
+     }
+    ]
+}

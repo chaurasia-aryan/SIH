@@ -1,20 +1,15 @@
-// scripts.js
-
 document.addEventListener('DOMContentLoaded', () => {
-    const hero = document.querySelector('.hero');
-    const conservation = document.querySelector('.conservation');
-    const info = document.querySelector('.info');
+    const sections = document.querySelectorAll('.main-content section');
 
-    // Add classes to trigger animations
-    setTimeout(() => {
-        hero.classList.add('fade-in');
-    }, 100);
+    const observer = new IntersectionObserver(entries => {
+        entries.forEach(entry => {
+            if (entry.isIntersecting) {
+                entry.target.classList.add('fade-in');
+            }
+        });
+    }, { threshold: 0.1 });
 
-    setTimeout(() => {
-        conservation.classList.add('fade-in');
-    }, 500);
-
-    setTimeout(() => {
-        info.classList.add('fade-in');
-    }, 1000);
+    sections.forEach(section => {
+        observer.observe(section);
+    });
 });

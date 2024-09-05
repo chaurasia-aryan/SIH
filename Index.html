@@ -14,6 +14,9 @@
         }
         body {
             font-family: 'San Francisco', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            margin: 0;
+            background: linear-gradient(to bottom, #ffffff, #f0f0f0);
+            color: #0b385f; /* Text color */
         }
     </style>
 </head>
@@ -21,7 +24,6 @@
     <!-- Toolbar Section -->
     <header class="toolbar">
         <div class="container">
-            <img src="path-to-architectural-structure.png" alt="Traditional Indian Architectural Structure" class="toolbar-logo">
             <div class="toolbar-text">
                 <p>जल संसाधन, नदी विकास और गंगा संरक्षण विभाग</p>
                 <p>Department of Water Resources, River Development and Ganga Rejuvenation</p>
@@ -29,36 +31,51 @@
         </div>
     </header>
 
-    <!-- Main Content Section -->
-    <main class="main-content">
-        <!-- Hero Section -->
-        <section class="hero">
-            <div class="hero-content">
-                <h2>Welcome to the Portal</h2>
-                <p>Understand and reduce your water usage with our tools.</p>
-                <a href="calculator.html" class="button">Start Now</a>
-            </div>
-            <!-- Water Animation -->
-            <div class="water-animation"></div>
-        </section>
+    <!-- Hero Section with Parallax Effect -->
+    <section id="home" class="parallax">
+        <div class="hero-content">
+            <h2>Welcome to the Portal</h2>
+            <p>Understand and reduce your water usage with our tools.</p>
+            <a href="calculator.html" class="button">Start Now</a>
+        </div>
+        <!-- Water Animation -->
+        <div class="water-animation"></div>
+    </section>
 
-        <!-- Conservation Section -->
-        <section class="conservation">
-            <div class="container">
-                <h3>Conserve Water, Secure Our Future</h3>
-                <p>Learn actionable tips to reduce your water footprint.</p>
-                <a href="calculator.html" class="button">Get Started</a>
-            </div>
-            
-        </section>
+    <!-- Conservation Section -->
+    <section class="conservation">
+        <div class="container">
+            <h3>Conserve Water, Secure Our Future</h3>
+            <p>Learn actionable tips to reduce your water footprint.</p>
+            <a href="sustainable.html" class="button">Get Started</a>
+        </div>
+    </section>
 
-        <!-- Info Section -->
-        <section class="info">
-            <div class="container">
-                <p>Learn more about water conservation. <a href="more-info.html" class="view-more-button">View More</a></p>
-            </div>
-        </section>
-    </main>
+    <!-- Info Section -->
+    <section class="info">
+        <div class="container">
+            <p>Learn more about water conservation. <a href="/fetch/SIH/Untitled-1.html" class="view-more-button">View More</a></p>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section class="contact">
+        <div class="container">
+            <h3>Contact Us</h3>
+            <p>If you have any questions, feel free to reach out to us.</p>
+            <p><a href="mailto:info@example.com">info@example.com</a></p>
+        </div>
+    </section>
+
+    <!-- Footer Section -->
+    <footer class="footer">
+        <p>&copy; 2024 Water Footprint Portal. All rights reserved.</p>
+        <ul class="social-media">
+            <li><a href="#"><img src="path-to-facebook-icon.png" alt="Facebook"></a></li>
+            <li><a href="#"><img src="path-to-twitter-icon.png" alt="Twitter"></a></li>
+            <li><a href="#"><img src="path-to-instagram-icon.png" alt="Instagram"></a></li>
+        </ul>
+    </footer>
 
     <script src="scripts.js"></script>
 </body>

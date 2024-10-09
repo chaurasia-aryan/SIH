@@ -1,53 +1,59 @@
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    
-    background-color: #f4f4f9;
+    background: linear-gradient(to bottom right, #00bfff, #228b22); /* Bluish-green gradient */
     margin: 0;
-    padding: 20px;
+    padding: 0;
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
+    height: 100vh; /* Full viewport height */
     font-size: 16px; /* Increased font size */
     font-weight: 500; /* Slightly bold font */
-
-    background-image:url("https://i.pinimg.com/736x/be/34/43/be344320db22594eb4cb219e5f8777a7.jpg")
+    background-repeat: no-repeat;
 }
 
 .container {
-    background-color: #fff;
-    padding: 50px;
-    border: 1px solid #ccc;
-    max-width: 600px;
-    width: 100%;
     text-align: center;
+    background-color: #fff;
+    padding: 80px; /* Increased padding for a bigger container */
+    border: 1px solid #ccc;
+    max-width: 800px; /* Increased width */
+    width: 100%;
+    margin: 0 auto; /* Centered horizontally */
     border-radius: 25px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Added shadow for a more defined look */
+}
+
+.heading {
+    font-size: 36px; /* Large font size for heading */
+    color: #228b22; /* Match with the gradient's green color */
+    margin-bottom: 30px; /* Space below the heading */
+    font-weight: bold; /* Bold heading */
 }
 
 input[type="text"], input[type="number"], select {
     color: rgba(78, 112, 5, 0.895);
     width: 100%;
-    padding: 10px;
+    padding: 15px; /* Increased padding */
     margin: 10px 0;
     border: 1px solid #ccc;
     border-radius: 4px;
     box-sizing: border-box;
-    font-size: 16px; /* Increased font size */
-    font-weight: 500; /* Slightly bold font */
-    
+    font-size: 18px; /* Slightly larger font */
+    font-weight: 500;
 }
 
 button {
     width: 100%;
     background-color: #4285f4;
     color: white;
-    padding: 10px;
-    margin: 10px 0;
+    padding: 15px; /* Increased button size */
+    margin: 10px;
     border: none;
     border-radius: 4px;
     cursor: pointer;
-    font-size: 16px; /* Increased font size */
-    font-weight: 500; /* Slightly bold font */
+    font-size: 18px; /* Slightly larger font */
+    font-weight: 500;
 }
 
 ul {
@@ -56,14 +62,19 @@ ul {
     margin: 10px 0;
 }
 
+.calc {
+    font-size: 50px; /* Increased font size for calculator title */
+    color: darkgreen;
+}
+
 ul li {
     padding: 10px;
     margin: 5px 0;
     background-color: #f9f9f9;
     border: 1px solid #ddd;
     cursor: pointer;
-    font-size: 16px; /* Increased font size */
-    font-weight: 500; /* Slightly bold font */
+    font-size: 16px;
+    font-weight: 500;
 }
 
 ul li:hover {
@@ -72,14 +83,7 @@ ul li:hover {
 
 #result {
     margin-top: 20px;
-    font-weight: 500; /* Slightly bold font */
-    font-size: 16px; /* Increased font size */
-<<<<<<< HEAD
-}
-=======
+    font-weight: 500;
+    font-size: 18px; /* Slightly larger font for the result */
 }
 
-
-
-
->>>>>>> 9b6b63b1a47257f70f1e5a2dd4b037c2683d9df2

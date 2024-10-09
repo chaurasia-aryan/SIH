@@ -15,10 +15,11 @@ body {
 
 /* Header Styling */
 header {
-    background-color: #3498db;
+    background-color:  #004d1f;
     color: white;
-    padding: 20px;
+    padding: 50px;
     text-align: center;
+    
 }
 
 header h1 {

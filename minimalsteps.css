@@ -1,0 +1,23 @@
+head{
+    font-size: 60pz;
+    color: white;
+    text-align:center ;
+    background-color:#004d1f;
+}
+body{
+    font-size: 60pz;
+    background-color:#004d1f;
+    color: white;
+}
+.heading{
+    text-align: center;
+
+}
+.list{
+    font-size:30px;
+    color: yellow;
+}
+.ytintro{
+    font: size 30px;
+    text-align: center;
+}

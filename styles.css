@@ -2,7 +2,7 @@
 body {
     font-family: -apple-system, BlinkMacSystemFont, "San Francisco", "Helvetica Neue", Helvetica, Arial, sans-serif;
     background: linear-gradient(to bottom, #ffffff, #f0f0f0);
-    color: #0b385f; /* Text color */
+    color: #115f0b; /* Text color */
     margin: 0;
 }
 
@@ -29,12 +29,12 @@ body {
 .toolbar-text p {
     margin: 0;
     font-size: 1.2em;
-    color: #0b385f; /* Text color */
+    color: #0b5f16; /* Text color */
 }
 
 /* Parallax Container */
 .parallax {
-    background-image: url('https://wallpapercrafter.com/desktop/216491-pastures-within-a-farm-in-nieder-wiesen-during-sun.jpg');
+    background-image: url('https://images.pexels.com/photos/1366083/pexels-photo-1366083.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
@@ -50,7 +50,7 @@ body {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    color: #ffffff; /* White text color */
+    color: #084723; /* White text color */
     text-align: center;
     z-index: 2; /* Ensure content is above the background image */
 }
@@ -67,18 +67,18 @@ body {
 }
 
 .button {
-    background-color: #51cae5; /* Soft Blue */
+    background-color: #0a8c15; /* Soft Blue */
     color: #ffffff; /* White text */
     padding: 12px 25px;
     text-decoration: none;
-    border: 2px solid #51cae5; /* Soft Blue */
+    border: 2px solid #0a8c15; /* Soft Blue */
     border-radius: 50px; /* Oval shape */
     transition: background-color 0.3s ease, color 0.3s ease, transform 0.2s ease;
     display: inline-block;
 }
 
 .button:hover {
-    background-color: #2361c0; /* Dark Blue */
+    background-color: #024a14; /* Dark Blue */
     color: #ffffff;
     transform: scale(1.1); /* Slightly enlarge button on hover */
 }
@@ -176,6 +176,68 @@ body {
     left: 0;
     width: 100%;
     height: 100%;
-    background: url('https://w0.peakpx.com/wallpaper/494/235/HD-wallpaper-blue-waves-waves-texture-blue-background-creative-abstract-waves-lines-waves-background-abstract-art.jpg') no-repeat center center;
+    background: url('https://images.pexels.com/photos/463052/pexels-photo-463052.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1') no-repeat center center;
     background-size: cover;
-    border-radius: 50% 50% 0 0 / 10
+    border-radius: 50% 50% 0 0 / 10}
+    .contact{
+        list-style: none;
+        padding: 0;
+        margin: 40px 0; /* Increased margin for spacing */
+        display: flex;
+        flex-direction: column;
+        align-items: center; /* Center-align the list */
+    }
+    
+    .contact li {
+        background-color: #f8f9fa; /* Soft background color */
+        padding: 20px; /* Increased padding for a clean layout */
+        margin: 10px 0; /* Space between items */
+        width: 100%;
+        max-width: 600px; /* Limit the width of the list items */
+        border-radius: 10px; /* Rounded corners for a modern look */
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Soft shadow for depth */
+        display: flex;
+        justify-content: space-between; /* Space between the text and button */
+        align-items: center;
+        transition: transform 0.2s ease, box-shadow 0.3s ease;
+    }
+    
+    .contact li:hover {
+        transform: translateY(-5px); /* Lift the item slightly on hover */
+        box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15); /* Enhance shadow on hover */
+    }
+    
+    .contact li .contact-text {
+        font-size: 18px; /* Larger font size for readability */
+        font-weight: 500;
+        color: #115f0b; /* Text color matching the theme */
+    }
+    
+    .contact li .contact-button {
+        background-color: #0a8c15; /* Match the button color with the theme */
+        color: white;
+        padding: 10px 20px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 14px;
+        transition: background-color 0.3s ease, transform 0.2s ease;
+    }
+    
+    .contact li .contact-button:hover {
+        background-color: #024a14; /* Darker green on hover */
+        transform: scale(1.05); /* Slightly enlarge the button on hover */
+    }
+    
+    .contact li .contact-icon {
+        margin-right: 15px;
+        font-size: 20px; /* Adjust icon size */
+        color: #115f0b; /* Match icon color with the theme */
+    }
+    
+    .contact li .contact-info {
+        display: flex; /* Align icon and text side by side */
+        align-items: center;
+    }
+    
+   
